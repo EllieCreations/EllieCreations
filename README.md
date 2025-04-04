@@ -18,5 +18,5 @@ Benvenutə nel mio spazio GitHub! 🚀 Mi piace esplorare la fusione tra arte e 
 
 ## 📫 Contatti  
 🌐 **Portfolio**: [elliecreations.it](https://elliecreations.it)  
-🐦 **Twitter/X**: [@elliecreations](https://twitter.com/elliecreations)  
-📷 **Instagram**: [@elliecreations](https://www.instagram.com/elliecreations)  
+🐦 **Email**: [elektrawebdev@gmail.com]  
+📷 **Instagram**: [@----](https://www.instagram.com)  
