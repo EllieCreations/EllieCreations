@@ -8,7 +8,7 @@ Benvenutə nel mio spazio GitHub! 🚀 Mi piace esplorare la fusione tra arte e 
 - 🎨 **Disegno & UI Design** → Creo interfacce e grafiche per progetti digitali.  
 - 💻 **Sviluppo Web** → Programmo siti web e applicazioni con **Bulma**, **JavaScript** e altro.  
 - 🎮 **Game Development** → Sviluppo e sperimento con il design e il codice nei videogiochi.
-- 
+
 # 💫 About Me:
 🔭 I’m currently working on my portfolio<br>
 👯 I’m looking to collaborate on<br>
