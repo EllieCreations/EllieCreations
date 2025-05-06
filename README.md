@@ -11,8 +11,7 @@ Benvenutə nel mio spazio GitHub! 🚀 Mi piace esplorare la fusione tra arte e 
 
 # 💫 About Me:
 🔭 Attualmente sto lavorando al mio portfolio personale<br>
-👯 Vorrei collaborare per migliorare un videogioco 2d pixel in Java che sto programmamdo<br>
-🤝 I’m looking for help with<br>
+👯 Vorrei collaborare per migliorare un videogioco 2d pixel in Java che sto sviluppando<br>
 🌱 Nel frattempo sto imparando JavaScript <br>
 ⚡ Fun fact "Programmare è come scrivere un libro... tranne che se ti dimentichi una virgola, l'intero universo esplode." 
 
