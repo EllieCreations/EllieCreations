@@ -17,7 +17,7 @@ Currently focused on full-stack web development with React and Node.js, while al
 
 ## 🚀 Projects
 
-**[elliecreations.it](https://elliecreations.it)** — my personal portfolio, currently being rebuilt from PHP/CSS to a modern React/Vite + Node.js + MongoDB stack.
+**[elliecreations.it](https://github.com/EllieCreations)** — my personal portfolio, currently being rebuilt from PHP/CSS to a modern React/Vite + Node.js + MongoDB stack.
 
 **[Italy Selected](https://italyselected.com)** — a luxury travel platform for curated Italian experiences across multiple destinations.
 `React/Vite` `Node.js/Express` `MongoDB` `Tailwind CSS` `DigitalOcean Spaces`
