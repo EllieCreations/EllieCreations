@@ -19,7 +19,7 @@ Currently focused on full-stack web development with React and Node.js, while al
 
 **[elliecreations.it](https://elliecreations.it)** — my personal portfolio, currently being rebuilt from PHP/CSS to a modern React/Vite + Node.js + MongoDB stack.
 
-**[Italy Selected](https://github.com/EllieCreations)** — a luxury travel platform for curated Italian experiences across multiple destinations.
+**[Italy Selected](https://italyselected.com)** — a luxury travel platform for curated Italian experiences across multiple destinations.
 `React/Vite` `Node.js/Express` `MongoDB` `Tailwind CSS` `DigitalOcean Spaces`
 
 **2D Pixel Game** — a Java-based 2D game with original pixel art, actively in development.
